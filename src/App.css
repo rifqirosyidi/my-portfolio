@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Thasadith);
+
 .header-gradient-color {
   background: #0575E6;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #021B79, #0575E6);  /* Chrome 10-25, Safari 5.1-6 */
@@ -49,3 +51,29 @@
   font-size: 2em;
 }
 
+.project-grid {
+  display: flex;
+}
+
+.card-title {
+  color: white !important;
+  font-size: 10px;
+  height: 176px;
+  background: url('image/python.jpg') center / cover;
+}
+
+.mdl-card__title-text {
+  font-family: 'Thasadith';
+  font-size: 16px !important;
+}
+
+.mdl-card__supporting-text {
+  color: #000 !important;
+  font-weight: 900;
+}
+
+@media only screen and (max-width: 768px) {
+  .mdl-layout__drawer-button{
+    position: relative !important;
+  }
+}

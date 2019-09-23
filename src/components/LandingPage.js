@@ -16,9 +16,9 @@ class LandingPage extends Component {
                         </div>
                         <div className="social-links">
                             <a class="social-item" href="https://github.com/rifqirosyidi" rel="noopener noreferrer" target="_blank"><i className="fa fa-github"></i></a>
-                            <a class="social-item" href="https://github.com/rifqirosyidi" rel="noopener noreferrer" target="_blank"><i className="fa fa-linkedin"></i></a>
-                            <a class="social-item" href="https://github.com/rifqirosyidi" rel="noopener noreferrer" target="_blank"><i className="fa fa-facebook"></i></a>
-                            <a class="social-item" href="https://github.com/rifqirosyidi" rel="noopener noreferrer" target="_blank"><i className="fa fa-instagram"></i></a>
+                            <a class="social-item" href="https://www.linkedin.com/in/rifqi-rosyidi-125804169/" rel="noopener noreferrer" target="_blank"><i className="fa fa-linkedin"></i></a>
+                            <a class="social-item" href="https://www.facebook.com/rifqi.n.rifqi.9" rel="noopener noreferrer" target="_blank"><i className="fa fa-facebook"></i></a>
+                            <a class="social-item" href="https://www.instagram.com/rief_01/" rel="noopener noreferrer" target="_blank"><i className="fa fa-instagram"></i></a>
                         </div>
                     </Cell>
                 </Grid>
