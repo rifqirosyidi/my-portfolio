@@ -8,8 +8,9 @@ function App() {
   return (
     <div className="demo-big-content">
     <Layout>
-        <Header className="header-gradient-color" title="My Portfolio" scroll>
+        <Header className="header-gradient-color" title="My Portfolio">
             <Navigation>
+                <Link to="/">Home</Link>
                 <Link to="/resume">Resume</Link>
                 <Link to="/projects">Projects</Link>
                 <Link to="/about-me">About</Link>
@@ -18,6 +19,7 @@ function App() {
         </Header>
         <Drawer title="My Portfolio">
             <Navigation>
+                <Link to="/">Home</Link>
                 <Link to="/resume">Resume</Link>
                 <Link to="/projects">Projects</Link>
                 <Link to="/about-me">About</Link>
