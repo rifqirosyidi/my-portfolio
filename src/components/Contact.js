@@ -47,7 +47,7 @@ class Contact extends Component {
               </p>
             </Cell>
             <Cell col={6}>
-              <p class="title-content">Contact</p>
+              <p className="title-content">Contact</p>
               <List style={{ width: "100%" }}>
                 <ListItem twoLine>
                   <ListItemContent avatar="phone" subtitle="Phone Number">

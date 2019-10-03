@@ -1,16 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Thasadith);
 
 .header-gradient-color {
-  background: #fe8c00;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #f83600, #fe8c00);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #f83600, #fe8c00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #0f0c29;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   box-shadow: none !important;
 }
 
 .landing-gradient-color {
-  background: #fe8c00;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #f83600, #fe8c00);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #f83600, #fe8c00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #0f0c29;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   text-align: center;
   overflow: hidden;
 }
@@ -20,7 +20,7 @@
     width: 200px;
     height: 200px;
     margin: 14px;
-    box-shadow: 0px 0px 25px #fe8b00;
+    box-shadow: 0px 0px 10px #fff;
 }
 
 .banner-text {
@@ -58,7 +58,7 @@
 }
 
 .mdl-tabs.is-upgraded .mdl-tabs__tab.is-active:after {
-  background: #f83600 !important;
+  background: #302b63 !important;
 }
 
 .card-title {
@@ -92,12 +92,12 @@
 }
 
 .mdl-list__item--two-line .mdl-list__item-primary-content .mdl-list__item-avatar {
-  background: #fc6a00;
+  background: #302b63;
   opacity: .7;
 }
 
 .color-orange {
-  color: #fc6a00;
+  color: #302b63;
   opacity: .7;
 }
 
